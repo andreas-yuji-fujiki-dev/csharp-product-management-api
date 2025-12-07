@@ -1,1 +1,0 @@
-# csharp-product-management-api

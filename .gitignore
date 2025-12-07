@@ -1,0 +1,25 @@
+# Build
+bin/
+obj/
+
+# VSCode settings
+.vscode/
+
+# SQLite database
+banco.db
+/Migrations
+
+# User-specific files
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# EF Core backups
+*.db-shm
+*.db-wal
